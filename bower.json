@@ -1,0 +1,32 @@
+{
+  "name": "Craig",
+  "description": "template",
+  "main": "index.js",
+  "authors": [
+    "Craig Ferguson"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "react": "~0.14",
+    "reactfire": "~0.5.1",
+    "babel": "*",
+    "moment": "momentjs#~2.11.1"
+  },
+  "resolutions": {
+    "react": "~0.14"
+  },
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "jquery": "~2.2.1"
+  }
+}

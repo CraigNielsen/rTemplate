@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "Alternate Smiley app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Ferguson",
+  "license": "ISC",
+  "dependencies": {
+    "better-console": "^0.2.4",
+    "bower": "^1.7.2"
+  }
+}

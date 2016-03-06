@@ -1,0 +1,27 @@
+/*.lineElement {
+   word-spacing: +20px;
+   padding: 10em 0;
+}*/
+
+.resize {
+  width: 2em;
+}
+.largetext {
+  font-size: : 2rem;
+}
+.animate {
+}
+.space {
+  padding-left: 15px;
+/*}
+.iline{
+  display: inline;
+  width:5em;
+  padding: 10px;
+}
+.leftspace{
+  padding-left: 20px;
+}
+.up{
+  padding-bottom: 3px;
+}*/
